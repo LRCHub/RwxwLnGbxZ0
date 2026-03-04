@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "線の物語",
+  "base_artist": "いぎなり東北産",
+  "createdAt": "2026-03-04T10:54:37.920231Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "線の物語",
+      "artist": "いぎなり東北産",
+      "has_synced": false,
+      "path": "select/pl_01_線の物語_いぎなり東北産.txt"
+    }
+  ]
+}
